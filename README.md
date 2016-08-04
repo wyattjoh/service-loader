@@ -42,3 +42,7 @@ OPTIONS:
   -sha string
     	the sha256 to validate against, defaults to loading from aws/minio
 ```
+
+## License
+
+MIT
